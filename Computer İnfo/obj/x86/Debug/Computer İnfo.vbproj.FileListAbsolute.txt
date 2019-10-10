@@ -1,0 +1,12 @@
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\bin\Debug\Computer İnfo.exe
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\bin\Debug\Computer İnfo.pdb
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\bin\Debug\Computer İnfo.xml
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer_İnfo.Form1.resources
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer_İnfo.Resources.resources
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.vbproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.exe
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.xml
+c:\users\root\documents\visual studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.pdb
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.exe
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.xml
+C:\Users\Main\Documents\Visual Studio 2010\Projects\Computer İnfo\Computer İnfo\obj\x86\Debug\Computer İnfo.pdb
